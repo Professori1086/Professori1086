@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Peter Odhiambo</h1>
+<h1 align="center">Hi 👋, I'm Peter Achoki Odhiambo</h1>
 <h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
 <img align="right" alt="machine_learning" width="400" src="https://gfycat.com/ashamedweightydachshund.gif"
 
