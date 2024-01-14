@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Peter Achoki Odhiambo</h1>
-<h3 align="center">A passionate Machine Learning Engineer from Kenya</h3>
+<h3 align="center">A passionate Machine Learning Engineer and Web Developer from Kenya</h3>
 <img align="right" alt="machine_learning" width="400" src="https://gfycat.com/ashamedweightydachshund.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professori1086&label=Profile%20views&color=0e75b6&style=flat" alt="professori1086" /> </p>
