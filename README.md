@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=professori1086&label=Profile%20views&color=0e75b6&style=flat" alt="professori1086" /> </p>
 
-- 🌱 I’m currently learning **TensorFlow, Streamlit, Web development**
+- 🌱 I’m currently learning **Python, MQL5, and Web development**
 
 - 📫 How to reach me **petachodh@outlook.com**
 
